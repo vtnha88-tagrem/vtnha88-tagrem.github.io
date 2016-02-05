@@ -3,7 +3,7 @@
 <p>https://github.com/vtnha88-tagrem/vtnha88-tagrem.github.io.git</p>
 <h2>Building static site:</h2>
 <p>
-    <a href="http://vtnha88-tagrem.github.io/serta/"></a>
+    <a href="http://vtnha88-tagrem.github.io/serta/">vtnha88-tagrem.github.io/serta/</a>
 </p>
 <h2>CSS pre-processor</h2>
 <p>CSS LESS, all document about this, you can see it <a href="http://lesscss.org/">here</a></p>
