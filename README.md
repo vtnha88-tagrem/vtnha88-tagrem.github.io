@@ -1,7 +1,7 @@
 <h1>Serta Redesign</h1>
 <h2>Building static site:</h2>
 <p>
-    <a href="http://vtnha88-tagrem.github.io/serta/"></a>
+    <a href="http://vtnha88-tagrem.github.io/serta/">http://vtnha88-tagrem.github.io/serta</a>
 </p>
 
 <h2>CSS Framework</h2>
